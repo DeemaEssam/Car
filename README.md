@@ -1,6 +1,6 @@
 # Car
 
-#class description
+# class description
 
 Car.java defines a class ”Car” that creates a car shape consisting of a top rectangle, bottom rectangle,
 and two circles for wheels. The class includes instance variables for the car’s color, position, and each of its
@@ -11,7 +11,7 @@ which is then used to fill the circles. The class also includes methods for draw
 making the JFrame visible.
 
 
-#Analysis
+# Analysis
 - Input: Car object as input in the constructor, user will input car color, and wheel color.
 
 - Output: Graphical representation of the car object, with a dialog prompt that requests the user to choose
@@ -25,7 +25,7 @@ paintComponent method of the JPanel is overridden to draw the car and prompt the
 for the wheels. The chosenColor is then used to fill and draw the left and right wheel circles of the Car
 object.
 
-#Execution
+# Execution
 ![runCar3](https://user-images.githubusercontent.com/106381596/225746718-771a0583-b05f-45ab-baa3-b508630502df.png)
 ![runCar2](https://user-images.githubusercontent.com/106381596/225746723-fa2fea3a-4485-4ee2-a5b5-4ea01a8c9d60.png)
 ![runCar1](https://user-images.githubusercontent.com/106381596/225746725-0a51b099-4d15-4083-9ca5-
